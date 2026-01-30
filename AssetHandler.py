@@ -1,0 +1,1 @@
+# Takes care of handling any assets no matter if we are on Windows/Linux/Mac

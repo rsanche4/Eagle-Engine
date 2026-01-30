@@ -1,0 +1,1 @@
+# This is simply importing or taking care of the data folder so we can start our project

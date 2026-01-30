@@ -1,0 +1,3 @@
+local script_index = ...
+
+EAPI:addUIToScreen("gun0.png", 0, 0, 255)

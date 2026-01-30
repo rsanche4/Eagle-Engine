@@ -1,0 +1,1 @@
+Recommended software to develop the actual 3D stuff: Blender

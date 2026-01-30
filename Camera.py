@@ -1,0 +1,1 @@
+# This is the camera we choose (third or first person) handles that stuff
